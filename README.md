@@ -1,2 +1,1 @@
-# jeremy-baier.github.io
-beginning of my website
+#beginning of my website
