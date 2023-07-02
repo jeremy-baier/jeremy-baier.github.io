@@ -14,7 +14,7 @@ I am a graduate student in physics at Oregon State University. I am a member of 
 - I am an active member of the detection working group in the Nanograv collaboration.
 
 
-# Cirriculum Vitae
+# Curriculum Vitae
 
 - Check out my CV [here](https://latexonline.cc/compile?git=https%3A%2F%2Fgithub.com%2Fjeremy-baier%2Fcv&target=baier_cv%2Fbaier_cv.tex&command=pdflatex&trackId=1601360428093)
 
